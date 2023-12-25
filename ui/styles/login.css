@@ -1,0 +1,716 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 172.8rem;
+}.login-5vM {
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: center;
+  background-color: #ffffff;
+}
+.login-5vM .auto-group-dgt5-1Z7 {
+  box-sizing: border-box;
+  padding: 20.6rem 3.5rem 20.7rem 3.5rem;
+  width: 48rem;
+  height: 100rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  box-shadow: 0 1.2rem 5rem rgba(0, 0, 0, 0.1000000015);
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.login-5vM .auto-group-dgt5-1Z7 .logo-VUH {
+  margin: 0rem 9.6rem 2.346rem 9.6rem;
+  width: calc(100% - 19.2rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.login-5vM .auto-group-dgt5-1Z7 .logo-VUH .rectangle-4-cJ1 {
+  margin: 0.415rem 0.554rem 0rem 0rem;
+  width: 0.5539rem;
+  height: 5.5389rem;
+  background-color: #fd7401;
+  border-radius: 1.6617rem;
+  flex-shrink: 0;
+}
+.login-5vM .auto-group-dgt5-1Z7 .logo-VUH .rectangle-5-iM3 {
+  margin: 0rem 0.554rem 0.415rem 0rem;
+  width: 0.5539rem;
+  height: 5.5389rem;
+  background-color: #1e2772;
+  border-radius: 1.6617rem;
+  flex-shrink: 0;
+}
+.login-5vM .auto-group-dgt5-1Z7 .logo-VUH .rectangle-6-SH3 {
+  margin: 0.415rem 0.554rem 0rem 0rem;
+  width: 0.5539rem;
+  height: 5.5389rem;
+  background-color: #fd7401;
+  border-radius: 1.6617rem;
+  flex-shrink: 0;
+}
+.login-5vM .auto-group-dgt5-1Z7 .logo-VUH .rectangle-7-koX {
+  margin: 0rem 0.554rem 0.415rem 0rem;
+  width: 0.5539rem;
+  height: 5.5389rem;
+  background-color: #1e2772;
+  border-radius: 1.6617rem;
+  flex-shrink: 0;
+}
+.login-5vM .auto-group-dgt5-1Z7 .logo-VUH .rectangle-8-HYZ {
+  margin: 0.415rem 0.554rem 0rem 0rem;
+  width: 0.5539rem;
+  height: 5.5389rem;
+  background-color: #fd7401;
+  border-radius: 1.6617rem;
+  flex-shrink: 0;
+}
+.login-5vM .auto-group-dgt5-1Z7 .logo-VUH .network-DBK {
+  margin-bottom: 0.0429rem;
+  width: 16.2611rem;
+  height: 3.0034rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.login-5vM .auto-group-dgt5-1Z7 .login-into-your-account-M2d {
+  margin-bottom: 4.5rem;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.login-5vM .auto-group-dgt5-1Z7 .group-2-sFs {
+  margin-bottom: 2.3rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.login-5vM .auto-group-dgt5-1Z7 .group-2-sFs .email-address-pS1 {
+  margin-bottom: 1rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #555555;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.login-5vM .auto-group-dgt5-1Z7 .group-2-sFs .auto-group-1sah-kKf {
+  box-sizing: border-box;
+  padding-left: 1.9rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  background-color: #f1f3f6;
+  border-radius: 0.8rem;
+  flex-shrink: 0;
+}
+.login-5vM .auto-group-dgt5-1Z7 .group-2-sFs .auto-group-1sah-kKf .alexemailcom-V2M {
+  margin-right: 20.7rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #555555;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.login-5vM .auto-group-dgt5-1Z7 .group-2-sFs .auto-group-1sah-kKf .auto-group-ebnm-cMs {
+  width: 5rem;
+  height: 5rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.login-5vM .auto-group-dgt5-1Z7 .group-3-jSV {
+  margin-bottom: 1rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.login-5vM .auto-group-dgt5-1Z7 .group-3-jSV .password-gcd {
+  margin-bottom: 1rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #555555;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.login-5vM .auto-group-dgt5-1Z7 .group-3-jSV .auto-group-23a5-RKK {
+  box-sizing: border-box;
+  padding-left: 1.9rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  background-color: #f1f3f6;
+  border-radius: 0.8rem;
+  flex-shrink: 0;
+}
+.login-5vM .auto-group-dgt5-1Z7 .group-3-jSV .auto-group-23a5-RKK .enter-your-password-xa9 {
+  margin-right: 17.8rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #555555;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.login-5vM .auto-group-dgt5-1Z7 .group-3-jSV .auto-group-23a5-RKK .auto-group-4ntm-V4H {
+  width: 5rem;
+  height: 5rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.login-5vM .auto-group-dgt5-1Z7 .forgot-password-oqf {
+  margin: 0rem 0rem 3.3rem 28.6rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.5;
+  text-decoration-line: underline;
+  color: #1e2772;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.login-5vM .auto-group-dgt5-1Z7 .group-4-iSq {
+  margin-bottom: 3rem;
+  width: 100%;
+  height: 5rem;
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: 0 0.8rem 1.2rem rgba(253, 116, 1, 0.3000000119);
+  background-color: #fd7401;
+  border-radius: 0.8rem;
+  flex-shrink: 0;
+}
+.login-5vM .auto-group-dgt5-1Z7 .group-5-NGV {
+  margin-bottom: 2.3rem;
+  width: 100%;
+  display: flex;
+  column-gap: 2rem;
+  align-items: center;
+  flex-shrink: 0;
+}
+.login-5vM .auto-group-dgt5-1Z7 .group-5-NGV .line-1-iLM {
+  margin-top: 0.2rem;
+  width: 17.5rem;
+  height: 0.1rem;
+  background-color: #c2c2c2;
+  flex-shrink: 0;
+}
+.login-5vM .auto-group-dgt5-1Z7 .group-5-NGV .or-FbB {
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #c2c2c2;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.login-5vM .auto-group-dgt5-1Z7 .group-5-NGV .line-2-CFX {
+  margin-top: 0.2rem;
+  width: 17.5rem;
+  height: 0.1rem;
+  background-color: #c2c2c2;
+  flex-shrink: 0;
+}
+.login-5vM .auto-group-dgt5-1Z7 .group-6-vBX {
+  width: 100%;
+  height: 5rem;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #fd7401;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: solid 0.1rem #fd7401;
+  box-sizing: border-box;
+  box-shadow: 0 0.8rem 1.2rem rgba(253, 116, 1, 0.3000000119);
+  border-radius: 0.8rem;
+  flex-shrink: 0;
+}
+.login-5vM .auto-group-nccv-7mo {
+  box-sizing: border-box;
+  padding: 22.704rem 34.985rem 24.291rem 35.816rem;
+  width: 124.8rem;
+  height: 100rem;
+  background-color: #f1f3f6;
+  flex-shrink: 0;
+}
+.login-5vM .auto-group-nccv-7mo .login-illustrator-qSu {
+  width: 100%;
+  height: 100%;
+  position: relative;
+  overflow: hidden;
+}
+.login-5vM .auto-group-nccv-7mo .login-illustrator-qSu .freepik-background-complete-inject-60-z4u {
+  width: 53.9993rem;
+  height: 46.5443rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: contain;
+  vertical-align: top;
+}
+.login-5vM .auto-group-nccv-7mo .login-illustrator-qSu .freepik-floor-inject-60-uBs {
+  width: 39.2055rem;
+  height: 0.0657rem;
+  position: absolute;
+  left: 6.8243rem;
+  top: 52.9389rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.login-5vM .auto-group-nccv-7mo .login-illustrator-qSu .freepik-plant-inject-60-pZj {
+  width: 10.5021rem;
+  height: 18.0735rem;
+  position: absolute;
+  left: 35.1512rem;
+  top: 24.0316rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.login-5vM .auto-group-nccv-7mo .login-illustrator-qSu .freepik-padlock-inject-60-jRo {
+  width: 10.529rem;
+  height: 12.5933rem;
+  position: absolute;
+  left: 34.5378rem;
+  top: 0.5902rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.login-5vM .auto-group-nccv-7mo .login-illustrator-qSu .freepik-device-inject-60-Tsb {
+  width: 18.2598rem;
+  height: 37.211rem;
+  position: absolute;
+  left: 19.9295rem;
+  top: 6.1784rem;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/vector-tD3.png');
+}
+.login-5vM .auto-group-nccv-7mo .login-illustrator-qSu .freepik-device-inject-60-Tsb .vector-AX7 {
+  width: 16.5774rem;
+  height: 34.7942rem;
+  position: absolute;
+  left: 0.8406rem;
+  top: 1.1035rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.login-5vM .auto-group-nccv-7mo .login-illustrator-qSu .freepik-device-inject-60-Tsb .vector-6ff {
+  width: 9.732rem;
+  height: 2.9616rem;
+  position: absolute;
+  left: 4.2647rem;
+  top: 28.8142rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.login-5vM .auto-group-nccv-7mo .login-illustrator-qSu .freepik-device-inject-60-Tsb .sing-up-dvV {
+  width: 4.2rem;
+  height: 1.3rem;
+  position: absolute;
+  left: 6.9824rem;
+  top: 29.5424rem;
+  font-size: 1.0278rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #e8e8e3;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.login-5vM .auto-group-nccv-7mo .login-illustrator-qSu .freepik-device-inject-60-Tsb .vector-wwB {
+  width: 3.2537rem;
+  height: 0.6114rem;
+  position: absolute;
+  left: 3.0542rem;
+  top: 10.2136rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.login-5vM .auto-group-nccv-7mo .login-illustrator-qSu .freepik-device-inject-60-Tsb .vector-gNy {
+  width: 3.2537rem;
+  height: 0.6114rem;
+  position: absolute;
+  left: 3.0542rem;
+  top: 10.2136rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.login-5vM .auto-group-nccv-7mo .login-illustrator-qSu .freepik-device-inject-60-Tsb .vector-Ddo {
+  width: 13.0517rem;
+  height: 2.2272rem;
+  position: absolute;
+  left: 3.0129rem;
+  top: 11.6642rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.login-5vM .auto-group-nccv-7mo .login-illustrator-qSu .freepik-device-inject-60-Tsb .vector-Mk1 {
+  width: 5.9459rem;
+  height: 0.5574rem;
+  position: absolute;
+  left: 4.0334rem;
+  top: 12.3771rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.login-5vM .auto-group-nccv-7mo .login-illustrator-qSu .freepik-device-inject-60-Tsb .vector-HtZ {
+  width: 5.9459rem;
+  height: 0.5574rem;
+  position: absolute;
+  left: 4.0334rem;
+  top: 12.3771rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.login-5vM .auto-group-nccv-7mo .login-illustrator-qSu .freepik-device-inject-60-Tsb .vector-RUy {
+  width: 3.2537rem;
+  height: 0.6114rem;
+  position: absolute;
+  left: 3.0321rem;
+  top: 15.6562rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.login-5vM .auto-group-nccv-7mo .login-illustrator-qSu .freepik-device-inject-60-Tsb .vector-m33 {
+  width: 3.2537rem;
+  height: 0.6114rem;
+  position: absolute;
+  left: 3.0321rem;
+  top: 15.6562rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.login-5vM .auto-group-nccv-7mo .login-illustrator-qSu .freepik-device-inject-60-Tsb .vector-JYm {
+  width: 13.053rem;
+  height: 2.2217rem;
+  position: absolute;
+  left: 2.9836rem;
+  top: 17.1209rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.login-5vM .auto-group-nccv-7mo .login-illustrator-qSu .freepik-device-inject-60-Tsb .vector-qob {
+  width: 3.2537rem;
+  height: 0.6114rem;
+  position: absolute;
+  left: 3.0075rem;
+  top: 21.3352rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.login-5vM .auto-group-nccv-7mo .login-illustrator-qSu .freepik-device-inject-60-Tsb .vector-nTw {
+  width: 3.2537rem;
+  height: 0.6114rem;
+  position: absolute;
+  left: 3.0075rem;
+  top: 21.3352rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.login-5vM .auto-group-nccv-7mo .login-illustrator-qSu .freepik-device-inject-60-Tsb .vector-Kyf {
+  width: 13.0518rem;
+  height: 2.2316rem;
+  position: absolute;
+  left: 2.9697rem;
+  top: 22.7811rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.login-5vM .auto-group-nccv-7mo .login-illustrator-qSu .freepik-device-inject-60-Tsb .vector-G8D {
+  width: 5.9483rem;
+  height: 0.5844rem;
+  position: absolute;
+  left: 3.9041rem;
+  top: 17.9505rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.login-5vM .auto-group-nccv-7mo .login-illustrator-qSu .freepik-device-inject-60-Tsb .vector-1Lh {
+  width: 5.9483rem;
+  height: 0.5844rem;
+  position: absolute;
+  left: 3.9041rem;
+  top: 17.9505rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.login-5vM .auto-group-nccv-7mo .login-illustrator-qSu .freepik-device-inject-60-Tsb .vector-xWq {
+  width: 0.5203rem;
+  height: 0.5208rem;
+  position: absolute;
+  left: 3.9242rem;
+  top: 23.6999rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.login-5vM .auto-group-nccv-7mo .login-illustrator-qSu .freepik-device-inject-60-Tsb .vector-6sw {
+  width: 0.5208rem;
+  height: 0.557rem;
+  position: absolute;
+  left: 4.7293rem;
+  top: 23.7047rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.login-5vM .auto-group-nccv-7mo .login-illustrator-qSu .freepik-device-inject-60-Tsb .vector-q4q {
+  width: 0.5203rem;
+  height: 0.5208rem;
+  position: absolute;
+  left: 5.5358rem;
+  top: 23.7075rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.login-5vM .auto-group-nccv-7mo .login-illustrator-qSu .freepik-device-inject-60-Tsb .vector-yB3 {
+  width: 0.5203rem;
+  height: 0.5208rem;
+  position: absolute;
+  left: 6.3409rem;
+  top: 23.7113rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.login-5vM .auto-group-nccv-7mo .login-illustrator-qSu .freepik-device-inject-60-Tsb .vector-7HF {
+  width: 0.5203rem;
+  height: 0.5208rem;
+  position: absolute;
+  left: 7.146rem;
+  top: 23.7151rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.login-5vM .auto-group-nccv-7mo .login-illustrator-qSu .freepik-device-inject-60-Tsb .vector-F8Z {
+  width: 0.5203rem;
+  height: 0.5208rem;
+  position: absolute;
+  left: 7.9524rem;
+  top: 23.719rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.login-5vM .auto-group-nccv-7mo .login-illustrator-qSu .freepik-device-inject-60-Tsb .vector-zM3 {
+  width: 0.5208rem;
+  height: 0.557rem;
+  position: absolute;
+  left: 8.7576rem;
+  top: 23.7224rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.login-5vM .auto-group-nccv-7mo .login-illustrator-qSu .freepik-device-inject-60-Tsb .vector-8TF {
+  width: 0.5203rem;
+  height: 0.5208rem;
+  position: absolute;
+  left: 9.5628rem;
+  top: 23.7266rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.login-5vM .auto-group-nccv-7mo .login-illustrator-qSu .freepik-device-inject-60-Tsb .vector-sfj {
+  width: 0.5203rem;
+  height: 0.5208rem;
+  position: absolute;
+  left: 10.368rem;
+  top: 23.7303rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.login-5vM .auto-group-nccv-7mo .login-illustrator-qSu .freepik-device-inject-60-Tsb .group-22q {
+  opacity: 0.2;
+  width: 6.9641rem;
+  height: 0.5794rem;
+  position: absolute;
+  left: 3.9242rem;
+  top: 23.6999rem;
+  display: flex;
+  align-items: center;
+}
+.login-5vM .auto-group-nccv-7mo .login-illustrator-qSu .freepik-device-inject-60-Tsb .group-22q .vector-YG5 {
+  margin: 0rem 0.285rem 0.059rem 0rem;
+  width: 0.5203rem;
+  height: 0.5208rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.login-5vM .auto-group-nccv-7mo .login-illustrator-qSu .freepik-device-inject-60-Tsb .group-22q .vector-sZF {
+  margin: 0rem 0.286rem 0.013rem 0rem;
+  width: 0.5208rem;
+  height: 0.557rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.login-5vM .auto-group-nccv-7mo .login-illustrator-qSu .freepik-device-inject-60-Tsb .group-22q .vector-1QZ {
+  margin: 0rem 0.285rem 0.043rem 0rem;
+  width: 0.5203rem;
+  height: 0.5208rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.login-5vM .auto-group-nccv-7mo .login-illustrator-qSu .freepik-device-inject-60-Tsb .group-22q .vector-YQV {
+  margin: 0rem 0.285rem 0.036rem 0rem;
+  width: 0.5203rem;
+  height: 0.5208rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.login-5vM .auto-group-nccv-7mo .login-illustrator-qSu .freepik-device-inject-60-Tsb .group-22q .vector-dRw {
+  margin: 0rem 0.286rem 0.028rem 0rem;
+  width: 0.5203rem;
+  height: 0.5208rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.login-5vM .auto-group-nccv-7mo .login-illustrator-qSu .freepik-device-inject-60-Tsb .group-22q .vector-XGR {
+  margin: 0rem 0.285rem 0.021rem 0rem;
+  width: 0.5203rem;
+  height: 0.5208rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.login-5vM .auto-group-nccv-7mo .login-illustrator-qSu .freepik-device-inject-60-Tsb .group-22q .vector-SuB {
+  margin: 0.022rem 0.284rem 0rem 0rem;
+  width: 0.5208rem;
+  height: 0.557rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.login-5vM .auto-group-nccv-7mo .login-illustrator-qSu .freepik-device-inject-60-Tsb .group-22q .vector-Bbs {
+  margin: 0rem 0.285rem 0.005rem 0rem;
+  width: 0.5203rem;
+  height: 0.5208rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.login-5vM .auto-group-nccv-7mo .login-illustrator-qSu .freepik-device-inject-60-Tsb .group-22q .vector-7VX {
+  margin-top: 0.002rem;
+  width: 0.5203rem;
+  height: 0.5208rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.login-5vM .auto-group-nccv-7mo .login-illustrator-qSu .freepik-device-inject-60-Tsb .vector-rT7 {
+  width: 1.6741rem;
+  height: 1.8253rem;
+  position: absolute;
+  left: 8.7341rem;
+  top: 4.8234rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.login-5vM .auto-group-nccv-7mo .login-illustrator-qSu .freepik-device-inject-60-Tsb .vector-CG5 {
+  width: 1.6741rem;
+  height: 1.8253rem;
+  position: absolute;
+  left: 8.7341rem;
+  top: 4.8234rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.login-5vM .auto-group-nccv-7mo .login-illustrator-qSu .freepik-device-inject-60-Tsb .vector-LNH {
+  width: 5.968rem;
+  height: 0.74rem;
+  position: absolute;
+  left: 6.4956rem;
+  top: 7.1173rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.login-5vM .auto-group-nccv-7mo .login-illustrator-qSu .freepik-device-inject-60-Tsb .vector-sND {
+  width: 5.968rem;
+  height: 0.74rem;
+  position: absolute;
+  left: 6.4956rem;
+  top: 7.1173rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.login-5vM .auto-group-nccv-7mo .login-illustrator-qSu .freepik-speech-bubble-inject-60-PLZ {
+  box-sizing: border-box;
+  padding: 1.771rem 1.877rem 2.834rem 2.007rem;
+  width: 6.5183rem;
+  height: 7.402rem;
+  position: absolute;
+  left: 7.213rem;
+  top: 17.0172rem;
+  display: flex;
+  align-items: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/vector-p8d.png');
+}
+.login-5vM .auto-group-nccv-7mo .login-illustrator-qSu .freepik-speech-bubble-inject-60-PLZ .vector-5DP {
+  margin-right: 0.1175rem;
+  width: 1.9724rem;
+  height: 2.7973rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.login-5vM .auto-group-nccv-7mo .login-illustrator-qSu .freepik-speech-bubble-inject-60-PLZ .vector-cUD {
+  margin-top: 0.9039rem;
+  width: 0.5435rem;
+  height: 1.5977rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.login-5vM .auto-group-nccv-7mo .login-illustrator-qSu .freepik-character-inject-60-wWV {
+  width: 18.1004rem;
+  height: 35.1878rem;
+  position: absolute;
+  left: 10.4634rem;
+  top: 17.7686rem;
+  object-fit: contain;
+  vertical-align: top;
+}
